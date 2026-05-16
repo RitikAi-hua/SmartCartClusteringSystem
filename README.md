@@ -49,7 +49,7 @@ SmartCartClusteringSystem/
 
 # Installation
 
-git clone https://github.com/Ritik-hua/SmartCartClusteringSystem.git
+git clone https://github.com/RitikAi-hua/SmartCartClusteringSystem/blob/main/SmartCartClusteringSystem.ipynb
 
 
 cd SmartCartClusteringSystem
